@@ -268,7 +268,7 @@ public:
 	Apple(Snake& snake) : snake_(snake) {}
 };
 
-int ___main()
+int main()
 {
 
 	//Initialize world
